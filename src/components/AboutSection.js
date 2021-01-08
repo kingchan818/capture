@@ -10,7 +10,7 @@ const AboutSection = () => {
 
         <div className="hide">
           <h2>
-            your <span>dreams</span> come{" "}
+            your <span>dreams</span> come true
           </h2>
         </div>
 
