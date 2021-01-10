@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
 
 body{
     background : #1b1b1b;
+    font-family: "inter", sans-serif;
 }
 
 h2{
@@ -25,6 +26,7 @@ color: white;
 h4{
     font-weight :bold;
     color: #23d997;
+    font-size: 2rem;
 }
 
 a{
@@ -56,6 +58,7 @@ button{
         background-color: #23d997;
         color : white;
     }
+    font-family: "inter", sans-serif;
 
 }
 
